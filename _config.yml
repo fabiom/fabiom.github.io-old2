@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_text: "Jekyll theme: Researcher"
+footer_text: "Based on Jekyll theme: <a style='color:black' href='https://github.com/ankitsultana/researcher'>Researcher</a>"
 
 sass:
     style: compressed
