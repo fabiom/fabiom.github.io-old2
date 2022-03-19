@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Fábio C. C. Meneghetti
 ---
 
 ## About Me
