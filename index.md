@@ -13,7 +13,7 @@ My area of study is at the intersection of geometry and information theory, advi
 
 ## Research Interests
 
-* Information geometry, Fisher information metric, geometric theory of statistical models
+* [Information geometry](/information-geometry/), Fisher information metric, geometric theory of statistical models
 * Divergence measures and distances between probability measures
 * Lattices (discrete additive subgroups of the Eucliedean space), and applications to information sciences
 * Applications of information geometry and information theory to statistical learning
