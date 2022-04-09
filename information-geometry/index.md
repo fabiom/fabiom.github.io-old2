@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Information Geometry
+description: A summary of inforamtion geometry.
 ---
 
 # Information Geometry

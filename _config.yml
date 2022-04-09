@@ -1,6 +1,7 @@
 title: Fábio C. C. Meneghetti
 url: "https://fabiom.net"
   #baseurl: "/"
+description: A personal webpage.
 
 markdown: kramdown
 kramdown:
