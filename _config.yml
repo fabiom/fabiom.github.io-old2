@@ -3,6 +3,10 @@ url: "https://fabiom.net"
   #baseurl: "/"
 
 markdown: kramdown
+kramdown:
+  math_engine_opts:
+    preview:         true
+    preview_as_code: true
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
