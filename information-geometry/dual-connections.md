@@ -4,13 +4,15 @@ title: Information Geometry/ Dual connections
 katex: true
 ---
 
-# Information Geometry/ Dual connections
+# Dual connections
 
 Let $$(M,g)$$ be a Riemannian manifold, and $$\nabla$$ be an any affine connection. The **dual connection** of $$\nabla$$ with respect to $$g$$ is a connection $$\nabla^*$$ such that
 
 $$X \langle Y,Z \rangle = \langle \nabla_X Y,Z \rangle + \langle Y, \nabla^*_X Z \rangle$$
 
-for $$X,Y,Z$$ vector fields. The triple $$(g,\nabla,\nabla^*)$$ is called a **dualistic structure** for $$M$$.
+for $$X,Y,Z$$ vector fields.
+
+The quadruple $$(M,g,\nabla,\nabla^*)$$ is called a **dually connected manifold**, and the triple $$(g,\nabla,\nabla^*)$$ is called a **dualistic structure** for $$M$$.
 
 ### Properties
 1. The dual is unique.
@@ -21,4 +23,8 @@ for $$X,Y,Z$$ vector fields. The triple $$(g,\nabla,\nabla^*)$$ is called a **du
 6. Dual Riemann curvature tensors satisfy $$\langle R(X,Y)Z, W \rangle = - \langle R^* (X,Y)W, Z \rangle$$.
 7. (Important!) $$\nabla$$ is flat iff $$\nabla^*$$ is flat.
 
-The most important examples of dualistic structures in information geometry are the family of [$$\alpha$$-connections](#), and in particular the e/m-connections.
+The most important examples of dualistic structures in information geometry are the family of [$$\alpha$$-connections](/information-geometry/alpha-connections.html), and in particular the e/m-connections.
+
+**See also:** [Dually flat manifolds](/information-geometry/dually-flat.html)
+
+[[back to Information Geometry]](/information-geometry)

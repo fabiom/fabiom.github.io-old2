@@ -5,9 +5,16 @@ title: Information Geometry
 
 # Information Geometry
 
+Information geometry studies the geometry of spaces of probability distributions, with particular focus to topics related to:
+- the Fisher information metric (a Riemannian metric),
+- the dually flat structure on these spaces,
+- divergences between probability distributions,
+- etc.
+
 ## I. Notes
 
 - [Dual connections](/information-geometry/dual-connections.html)
+- [Dually flat manifolds](/information-geometry/dually-flat.html)
 
 ## II. References
 
