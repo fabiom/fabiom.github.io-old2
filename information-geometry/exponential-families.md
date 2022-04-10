@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Information Geometry/ 
+title: Information Geometry/ Exponential families
 katex: true
 ---
 
-# To do
+# To do: Exponential families
 
 <a href="javascript:void(0);" onclick="history.go(-1);">[←back]</a> [[↑Information Geometry]](/information-geometry)

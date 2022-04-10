@@ -6,4 +6,4 @@ katex: true
 
 # To do: Exponential and mixture connections
 
-[[back to Information Geometry]](/information-geometry)
+<a href="javascript:void(0);" onclick="history.go(-1);">[←back]</a> [[↑Information Geometry]](/information-geometry)

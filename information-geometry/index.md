@@ -14,6 +14,7 @@ Information geometry studies the geometry of spaces of probability distributions
 
 ## I. Notes
 
+- [Statistical manifolds](/information-geometry/statistical-manifolds.html)
 - [Dual connections](/information-geometry/dual-connections.html)
 - [Dually flat manifolds](/information-geometry/dually-flat.html)
 

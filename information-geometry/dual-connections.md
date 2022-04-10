@@ -41,4 +41,4 @@ An important case of a dualistic structures in information geometry is the pair 
 
 **See also:** [Dually flat manifolds](/information-geometry/dually-flat.html)
 
-[[back to Information Geometry]](/information-geometry)
+<a href="javascript:void(0);" onclick="history.go(-1);">[←back]</a> [[↑Information Geometry]](/information-geometry)
