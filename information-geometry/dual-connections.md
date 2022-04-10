@@ -37,7 +37,7 @@ $$\nabla^{(\alpha)} = \frac{1+\alpha}{2}\nabla + \frac{1-\alpha}{2}\nabla^*,$$
 
 such that $$\nabla^{(\alpha)}$$ and $$\nabla^{(-\alpha)}$$ are duals, $$\nabla^{(0)}$$, is the Levi-Civita connection, $$\nabla^{(1)} = \nabla$$ and $$\nabla^{(-1)}=\nabla^*$$. In particular, if we define the _Amari-Chentsov tensor_ as $$C(X,Y,Z) = \langle \nabla_X Y - \nabla^*_X Y,Z \rangle = \nabla g$$, then we can construct $$\nabla^{(\alpha)}$$ using the previous example for $$A= \frac{\alpha}{2}C$$.
 
-An important case of a dualistic structures in information geometry is the pair of [exponential and mixture connections](/information-geometry/e-m-connections.html).
+An important case of a dualistic structure in information geometry is the pair of [exponential and mixture connections](/information-geometry/e-m-connections.html).
 
 **See also:** [Dually flat manifolds](/information-geometry/dually-flat.html)
 
